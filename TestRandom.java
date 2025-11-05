@@ -23,7 +23,7 @@ public  class  TestRandom {
         
         if (countlessorequal != 0) {
             double ratio = (double) countgreater / countlessorequal;
-            System.out.println("Ratio:  " + ratio);
+            System.out.println("Ratio: " + ratio);
         }
         
 
