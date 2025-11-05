@@ -14,10 +14,10 @@ public class Cheers {
 
                         String anletter = "AEFHILMNORSX";
                         if (anletter.indexOf(currentCh) != -1) {
-                                System.out.print("Give me an " + currentCh);
+                                System.out.print("Give me an  " + currentCh);
                                 System.out.println(": " + currentCh + "!");
                         } else {
-                                System.out.print("Give me a " + currentCh);
+                                System.out.print("Give me a  " + currentCh);
                                 System.out.println(": " + currentCh + "!");
                         }
                 }
