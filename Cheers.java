@@ -17,7 +17,7 @@ public class Cheers {
                                 System.out.print("Give me an " + currentCh);
                                 System.out.println(": " + currentCh + "!");
                         } else {
-                                System.out.print("Give me a " + currentCh);
+                                System.out.print("Give me a  " + currentCh);
                                 System.out.println(": " + currentCh + "!");
                         }
                 }
